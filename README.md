@@ -4,7 +4,7 @@ This is based on https://github.com/RobTillaart/ACS712
 
 The code is working on ESP and ACS712-30A.
 
-Have in mind that without voltage divider on the ADC pin a 30A model will measure up to 20A.
+Have in mind that without voltage divider on the ADC pin a 30A model will measure up to 12A.
 
 Example yaml fragment:
 
